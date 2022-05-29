@@ -1,0 +1,1 @@
+enum VirtualKeyboardType { Numeric, Alphanumeric,Mons }
